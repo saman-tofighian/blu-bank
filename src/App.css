@@ -1,0 +1,54 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@font-face {
+  font-family: vazir;
+  src: url(../src/fonts/vazir.eot), url(../src/fonts/vazir.ttf),
+    url(../src/fonts/vazir.woff), url(../src/fonts/vazir.woff2);
+}
+@font-face {
+  font-family: yekan;
+  src: url(../src/fonts/Yekan.eot), url(../src/fonts/Yekan.ttf),
+    url(../src/fonts/Yekan.woff), url(../src/fonts/Yekan.woff2);
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html {
+  scroll-behavior: smooth;
+}
+html::-webkit-scrollbar {
+  width: 0.4rem;
+}
+html::-webkit-scrollbar-thumb {
+  background: #3094ea;
+  border-radius: 5rem;
+}
+body {
+  width: 100%;
+  font-size: 100%;
+  overflow-x: hidden;
+  direction: rtl;
+  font-family: vazir;
+}
+main {
+  width: 100%;
+  overflow-x: hidden;
+}
+
+.slick-dots li.slick-active button:before {
+  color: #3094ea;
+}
+.font-yekan {
+  font-family: yekan !important;
+}
+.slick-list {
+  padding-top: 40px !important;
+  padding-bottom: 15px !important;
+}
+#customerSlider {
+  box-shadow: 0 0 12px 0 #ddd;
+  padding: 50px 20px 30px;
+}
