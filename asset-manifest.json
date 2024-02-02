@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/blu-bank/static/css/main.c3d08a0f.css",
+    "main.js": "/blu-bank/static/js/main.3b5b8fbc.js",
+    "static/media/AboutVideo.mp4": "/blu-bank/static/media/AboutVideo.5b902acc556a26054e1f.mp4",
+    "static/media/SmartTransfer-mp4": "/blu-bank/static/media/SmartTransfer-dbc3f1688a360753840a55b09ddd3f50.dbc3f1688a360753840a.mp4",
+    "static/media/KYC-mp4": "/blu-bank/static/media/KYC-2f7a21a0db455f1c536551b13081aa4f.2f7a21a0db455f1c5365.mp4",
+    "static/media/red-cards-png": "/blu-bank/static/media/red-cards-58eef88180bfe8ddacf330d238d67dbf.58eef88180bfe8ddacf3.png",
+    "static/media/green-cards-png": "/blu-bank/static/media/green-cards-1922f2b7efbc90e001af89cb8b56be8d.1922f2b7efbc90e001af.png",
+    "static/media/blue-cards-png": "/blu-bank/static/media/blue-cards-e05ac3905ab0eba7271f707d4ed6b368.e05ac3905ab0eba7271f.png",
+    "static/media/blu-rangi-winner-desktop.jpg": "/blu-bank/static/media/blu-rangi-winner-desktop.b04fed2ea17df9e23a20.jpg",
+    "static/media/bluLine-png": "/blu-bank/static/media/bluLine-78ca749b2632c8e7f035d62f2dd756dc.78ca749b2632c8e7f035.png",
+    "static/media/blu-rangi-winner-mobile.jpg": "/blu-bank/static/media/blu-rangi-winner-mobile.501163fcf93280854b0e.jpg",
+    "static/media/vazir.eot": "/blu-bank/static/media/vazir.e4c3d561c9338a9b3b21.eot",
+    "static/media/vazir.ttf": "/blu-bank/static/media/vazir.665ee3f59bd1eadff53f.ttf",
+    "static/media/Yekan.ttf": "/blu-bank/static/media/Yekan.f6a0838b6690eaaa2898.ttf",
+    "static/media/Yekan.eot": "/blu-bank/static/media/Yekan.9db58f99bcd38a0e67b6.eot",
+    "static/media/vazir.woff": "/blu-bank/static/media/vazir.080edccc2bce9d230a0d.woff",
+    "static/media/vazir.woff2": "/blu-bank/static/media/vazir.ccd6c24b08de47e7e485.woff2",
+    "static/media/Yekan.woff": "/blu-bank/static/media/Yekan.18af8c75ab1951a5e56d.woff",
+    "static/media/Yekan.woff2": "/blu-bank/static/media/Yekan.a62bb3c8f209f478a9e5.woff2",
+    "static/media/slick.svg": "/blu-bank/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/blu-bank/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/download2.svg": "/blu-bank/static/media/download2.75c1ec46c544e9aa5257a7fa6bb0966b.svg",
+    "static/media/slick.ttf": "/blu-bank/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/blu-bank/static/media/slick.295183786cd8a1389865.woff",
+    "static/media/download3.svg": "/blu-bank/static/media/download3.4f2ff1036bd0a4c9739e01dfc339c987.svg",
+    "static/media/download.svg": "/blu-bank/static/media/download.d3286b8b1f40ac917bf3e6f412bf5181.svg",
+    "index.html": "/blu-bank/index.html",
+    "main.c3d08a0f.css.map": "/blu-bank/static/css/main.c3d08a0f.css.map",
+    "main.3b5b8fbc.js.map": "/blu-bank/static/js/main.3b5b8fbc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3d08a0f.css",
+    "static/js/main.3b5b8fbc.js"
+  ]
+}
